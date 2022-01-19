@@ -1,0 +1,11 @@
+C:\Users\maj\source\repos\bgame\bgame\bin\Debug\bgame.exe.config
+C:\Users\maj\source\repos\bgame\bgame\bin\Debug\bgame.exe
+C:\Users\maj\source\repos\bgame\bgame\bin\Debug\bgame.pdb
+C:\Users\maj\source\repos\bgame\bgame\obj\Debug\bgame.csproj.AssemblyReference.cache
+C:\Users\maj\source\repos\bgame\bgame\obj\Debug\bgame.Form1.resources
+C:\Users\maj\source\repos\bgame\bgame\obj\Debug\bgame.Properties.Resources.resources
+C:\Users\maj\source\repos\bgame\bgame\obj\Debug\bgame.csproj.GenerateResource.cache
+C:\Users\maj\source\repos\bgame\bgame\obj\Debug\bgame.csproj.CoreCompileInputs.cache
+C:\Users\maj\source\repos\bgame\bgame\obj\Debug\bgame.exe
+C:\Users\maj\source\repos\bgame\bgame\obj\Debug\bgame.pdb
+C:\Users\maj\source\repos\bgame\bgame\obj\Debug\bgame.HelpScreen.resources
